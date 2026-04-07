@@ -19,6 +19,9 @@ date: 2026-04-06
 ### Github Organization
 [Manoa Study Spaces](https://github.com/team-wumtk)
 
+### Conceptual Presentation
+[Canva](https://www.canva.com/design/DAHGHl5Pugc/pdYv5qV5g1zl7z_3tUgzpA/edit)
+
 ### Deployment
 [Deployment]()
 
