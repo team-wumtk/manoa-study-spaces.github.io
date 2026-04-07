@@ -27,9 +27,9 @@ labels:
 [Deployment]()
 
 ## Milestone 1
-[Milestone 1 Github Repository]()
+[Milestone 1 Github Project](https://github.com/orgs/manoa-study-spaces/projects/1)
 
-### Overview
+## Overview
 **The Problem**: Students at UH Manoa want to find available spaces to study, relax, or meet with their peers. Newer students may not know where to locate popular locations like libraries, lounges, and study areas. Additionally, students have different preferences for study environments; some prefer quiet spaces, others need spaces for group study, or maybe they seek specific ammenities. 
 
 **The Solution**: This website will allow students to list different study spaces on UH Manoa Campus and their amenities. This enables students to:
