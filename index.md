@@ -1,4 +1,9 @@
+---
+title: "Manoa Study Spaces"
+date: 2026-04-06
+---
 
+# Manoa Study Spaces
 
 ## Members
 * Chloe Whitaker
