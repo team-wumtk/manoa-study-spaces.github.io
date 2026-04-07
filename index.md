@@ -7,7 +7,7 @@ date: 2026-04-06
 
 ## Members
 * [Chloe Whitaker](https://codovey.github.io)
-* Jonell Elizabeth Udasco
+* [Jonell Elizabeth Udasco](https://judasco.github.io/)
 * Tanner Tashiro
 * [Isabella Mow](https://github.com/isabellamow)
 * [Brian Kim](https://fuburian.github.io/)
