@@ -6,7 +6,7 @@ date: 2026-04-06
 # Manoa Study Spaces
 
 ## Members
-* Chloe Whitaker
+* [Chloe Whitaker](https://codovey.github.io)
 * Jonell Elizabeth Udasco
 * Tanner Tashiro
 * [Isabella Mow](https://github.com/isabellamow)
@@ -47,7 +47,7 @@ This section provides a walkthrough of the Manoa Study Spaces user interface and
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
-![](https://github.com/team-wumtk/manoa-study-spaces.github.io/blob/main/doc/landing-page.png)
+![](studyspacesconcept.webp)
 
 ## Some other possible mockup pages include:
 * Landing Page / Home Page
