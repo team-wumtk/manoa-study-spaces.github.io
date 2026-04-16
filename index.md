@@ -23,10 +23,13 @@ date: 2026-04-06
 [Canva](https://www.canva.com/design/DAHGHl5Pugc/pdYv5qV5g1zl7z_3tUgzpA/edit)
 
 ### Deployment
-[Deployment]()
+[Deployment](https://manoa-study-spaces.vercel.app/)
 
 ## Milestone 1
 [Milestone 1 Github Project](https://github.com/orgs/manoa-study-spaces/projects/1)
+
+## Milestone 2
+[Milestone 2 Github Project]()
 
 ## Overview
 **The Problem**: Students at UH Manoa want to find available spaces to study, relax, or meet with their peers. Newer students may not know where to locate popular locations like libraries, lounges, and study areas. Additionally, students have different preferences for study environments; some prefer quiet spaces, others need spaces for group study, or maybe they seek specific ammenities. 
@@ -48,12 +51,11 @@ Manoa Study Spaces has two main user roles: students and admins.
 ## User Guide
 This section provides a walkthrough of the Manoa Study Spaces user interface and its capabilities.
 
+### Signup / Login Page
+
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
 ![](studyspacesconcept.webp)
 
-## Some other possible mockup pages include:
-* Landing Page / Home Page
-* Login / Register (student role)
-* Student Dashboard
-* Admin Dashboard
+### Listing Page
+![]()
