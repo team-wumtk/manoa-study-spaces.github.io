@@ -29,7 +29,7 @@ date: 2026-04-06
 [Milestone 1 Github Project](https://github.com/orgs/manoa-study-spaces/projects/1)
 
 ## Milestone 2
-[Milestone 2 Github Project]()
+[Milestone 2 Github Project](https://github.com/orgs/manoa-study-spaces/projects/3)
 
 ## Overview
 **The Problem**: Students at UH Manoa want to find available spaces to study, relax, or meet with their peers. Newer students may not know where to locate popular locations like libraries, lounges, and study areas. Additionally, students have different preferences for study environments; some prefer quiet spaces, others need spaces for group study, or maybe they seek specific ammenities. 
@@ -65,5 +65,5 @@ Would also like to implement a filter for M2.
 ![](listing-page.png)
 
 ### Today's Spaces Page
-Currently working on addSpace component, then we'll be able to assign a date to 
+Currently working on addSpace component, then we'll be able to assign a date to the Card 
 ![](today-spaces.png)
