@@ -52,10 +52,18 @@ Manoa Study Spaces has two main user roles: students and admins.
 This section provides a walkthrough of the Manoa Study Spaces user interface and its capabilities.
 
 ### Signup / Login Page
+![](Sign-in.png)
+![](Sign-up.png)
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they visit the top-level URL to the site. (Concept)
 ![](studyspacesconcept.webp)
 
 ### Listing Page
-![]()
+We would like to add more to this in the future, such as the date the space was added and maybe a rating system.
+Would also like to implement a filter for M2.
+![](listing-page.png)
+
+### Today's Spaces Page
+Currently working on addSpace component, then we'll be able to assign a date to 
+![](today-spaces.png)
