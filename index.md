@@ -56,14 +56,23 @@ This section provides a walkthrough of the Manoa Study Spaces user interface and
 ![](Sign-up.png)
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site. (Concept)
-![](studyspacesconcept.webp)
+The landing page is presented to users when they visit the top-level URL to the site.
+![](landing-page.png)
 
 ### Listing Page
-We would like to add more to this in the future, such as the date the space was added and maybe a rating system.
-Would also like to implement a filter for M2.
+We would like to add more to this in the future, such as a rating and commenting system.
+Would also like to implement a filter for M3.
 ![](listing-page.png)
 
+### Add Space Page
+This is the form to add a space with name, image, quiet levels, capacity, etc.
+![](add-page.png)
+
 ### Today's Spaces Page
-Currently working on addSpace component, then we'll be able to assign a date to the Card 
+Will list all the posted spaces today. 
 ![](today-spaces.png)
+
+### Study Group Page
+Currently working on addSpace component, then we'll be able to assign a date to the Card 
+![](study-group-page.png)
+
