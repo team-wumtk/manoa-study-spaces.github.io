@@ -31,6 +31,9 @@ date: 2026-04-06
 ## Milestone 2
 [Milestone 2 Github Project](https://github.com/orgs/manoa-study-spaces/projects/3)
 
+## Milestone 3
+[Milestone 3 Github Project](https://github.com/orgs/manoa-study-spaces/projects/4)
+
 ## Overview
 **The Problem**: Students at UH Manoa want to find available spaces to study, relax, or meet with their peers. Newer students may not know where to locate popular locations like libraries, lounges, and study areas. Additionally, students have different preferences for study environments; some prefer quiet spaces, others need spaces for group study, or maybe they seek specific ammenities. 
 
@@ -75,4 +78,35 @@ Will list all the posted spaces today.
 ### Study Group Page
 Currently working on addSpace component, then we'll be able to assign a date to the Card 
 ![](study-group-page.png)
+
+## Developer Guide
+This section explains how developers can download, install, run, and modify the Manoa Study Spaces application.
+
+### Prerequisites
+Before starting, ensure you have the following installed:
+* Node.js
+* npm
+* GitHub
+* A code editor such as VS Code
+
+### Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/team-wumtk/manoa-study-spaces.git
+   cd manoa-study-spaces
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+   
+### Running the Application
+To start the development server: 
+```
+npm run dev
+```
+Then open your browser and go to http://localhost:3000, the app will automatically update when changes are made.
+
+You can also access the website using the [vercel link](https://manoa-study-spaces.vercel.app/).
+
 
