@@ -58,17 +58,22 @@ This section provides a walkthrough of the Manoa Study Spaces user interface and
 ![](Sign-in.png)
 ![](Sign-up.png)
 
+### Profile Page
+The profile page will let you see and edit your profile. This page will also let you see the spaces you added, study groups you are attending, and any spaces that you bookmarked.
+![](profile-page.png)
+![](profile-page2.png)
+
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
 ![](landing-page.png)
 
 ### Listing Page
-We would like to add more to this in the future, such as a rating and commenting system.
-Would also like to implement a filter for M3.
+Lets you see all the created spaces from the add space form.
 ![](listing-page.png)
 
 ### Add Space Form
 This is the form to add a space with name, image, quiet levels, capacity, etc.
+You can also add amenity tags to your spaces. 
 ![](add-space.png)
 
 ### Review Page
@@ -79,18 +84,21 @@ Will list all the posted spaces today.
 ![](today-spaces.png)
 
 ### Study Group Page
-Currently working on addSpace component, then we'll be able to assign a date to the Card 
+Shows all the availiable study groups with filters to see groups depending on its availability.
 ![](study-group-page.png)
 
 ### Add Study Group Form
-![]()
+Here is where you create you can create your study group.
+![](create-study-group.png)
 
 ## Community Feedback
-1. 
-2. 
-3.
-4.
-5.
+| How easy was navigating the site? | Do you feel all core features have been implemented? | Was using Manoa Study Spaces an enjoyable experience? | Is Manoa Study Spaces a website that would be useful to you? | What feature do you feel would enhance Manoa Study Spaces if implemented?                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------|------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3/5                               | No                                                   | Yes                                                   | Maybe                                                        | Maybe change color palette to darker colors and maybe add ratings/reviews to study spaces.                                                                                                                                                                                                                                                                                                              |
+| 4/5                               | Yes                                                  | Yes                                                   | Yes                                                          | Overall the website is very nice; however, I think that the colors are a little bright and could be toned down a little bit. Also, the top navbar seems a little unnecessary since it only contains the logo and the name of the website. I think that combining the two navbars together so that the tabs are next to the logo would save space and be more efficient.                                 |
+| 4/5                               | Yes                                                  | Yes                                                   | Yes                                                          | Bold text for the headers                                                                                                                                                                                                                                                                                                                                                                               |
+| 3/5                               | Yes                                                  | Yes                                                   | Maybe                                                        | I think the study groups section could be improved by displaying who actually made the group. Right now it is anonymous and being able to see the profile of the group maker could be helpful in determining whether a person wants to join. For the study space list section I feel like the image input could maybe take saved images or pictures that the user takes not pre-existing images online. |
+| 4/5                               | Yes                                                  | Yes                                                   | Maybe                                                        | There could be more filters for the study spaces list similar to the study groups. You could add maybe filters for the amenities and for the space descriptions.                                                                                                                                                                                                                                        |
 
 ## Developer Guide
 This section explains how developers can download, install, run, and modify the Manoa Study Spaces application.
