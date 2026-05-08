@@ -77,7 +77,8 @@ You can also add amenity tags to your spaces.
 ![](add-space.png)
 
 ### Review Page
-![]()
+![](description-page.png)
+![](review-page.png)
 
 ### Today's Spaces Page
 Will list all the posted spaces today. 
